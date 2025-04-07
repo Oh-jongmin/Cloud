@@ -18,5 +18,5 @@
 
 ## ✅ AWS TCO 계산기
 
-- [https://calculator.aws.amazon.com/tco/](https://calculator.aws/#/)
+- [aws pricing caculator](https://calculator.aws/#/)
 - 현재 환경을 입력하면 클라우드 비용 절감 예측 가능
