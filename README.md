@@ -9,12 +9,13 @@
 
 | 항목 | 설명 |
 |------|------|
-| `01-iam` | 계정, 사용자, 그룹, 역할(IAM) 개념 및 정책 실습 |
-| `02-network` | VPC, 서브넷, CIDR, 게이트웨이 등 네트워크 구성 |
-| `03-region-zone` | 리전, 가용영역(Zone), 멀티 리전 아키텍처 |
-| `04-firewall-routing` | 방화벽, 라우팅 테이블, NAT 게이트웨이 |
-| `05-storage-compute` | 오브젝트 스토리지, VM 개념, 볼륨 마운트 |
-| `06-cloud-comparison` | AWS / GCP / Azure 비교 및 서비스 맵 |
+| `01-cloud` | 클라우드 개념 및 특징|
+| `02-economics&billing` | 비용 최적화, 리소스 낭비 줄이기, 예약 인스턴스 |
+| `03-global-infrastructure` | 리전, 가용영역(Zone), 고가용성 |
+| `04-network` | IP 주소, CIDR, 서브넷 |
+| `05-cloud-security` | 공동 책임 모델, 보안 기본 원칙 |
+| '06-storage' | 스토리지 개요, 블록/오브젝트/파일 스토리지 |
+| `07-cloud-comparison` | AWS / GCP / Azure 비교 및 서비스 맵 |
 
 ---
 
