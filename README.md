@@ -13,8 +13,8 @@
 | `02-economics&billing` | 비용 최적화, 리소스 낭비 줄이기, 예약 인스턴스 |
 | `03-global-infrastructure` | 리전, 가용영역(Zone), 고가용성 |
 | `04-network` | IP 주소, CIDR, 서브넷 |
-| `05-cloud-security` | 공동 책임 모델, 보안 기본 원칙 |
-| '06-storage' | 스토리지 개요, 블록/오브젝트/파일 스토리지 |
+| `05-cloud security` | 공동 책임 모델, 보안 기본 원칙 |
+| `06-cloud storage` | 스토리지 개요, 블록/오브젝트/파일 스토리지 |
 | `07-cloud-comparison` | AWS / GCP / Azure 비교 및 서비스 맵 |
 
 ---
