@@ -1,9 +1,8 @@
-# ☁️ 01. 클라우드 개요 (Cloud Overview)
+# 💰 02. 클라우드 요금 및 비용 구조
 
-> 클라우드 컴퓨팅의 개념, 특징, 장점, 배포 모델 등을 다룹니다.  
-> AWS 기준으로 설명하며, 필요 시 GCP와 Azure 비교도 포함합니다.
+> 클라우드 과금 방식, TCO 계산법, 비용 최적화 전략 등을 다룹니다.
 
 ## 📂 포함 문서
-- `overview.md`: 클라우드 정의 및 서비스 모델 (IaaS/PaaS/SaaS)
-- `benefits.md`: 민첩성, 확장성, CapEx vs OpEx 등 장점 정리
-- `deployment-models.md`: 퍼블릭/프라이빗/하이브리드/멀티 클라우드 비교
+- `cost-optimization.md`: 스팟 인스턴스, 예약 인스턴스 등 절감 전략
+- `billing-structure.md`: AWS 과금 구조 이해 및 도구 소개
+- `tco-analysis.md`: 총 소유 비용(TCO) 비교 및 AWS TCO 계산기
