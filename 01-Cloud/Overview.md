@@ -39,6 +39,6 @@
 ## 🔍 참고 링크
 
 - [AWS 소개](https://aws.amazon.com/ko/what-is-aws/)
-- [Azure란 무엇인가요?](https://learn.microsoft.com/ko-kr/azure/overview/what-is-azure)
+- [Azure 소개](https://learn.microsoft.com/ko-kr/azure/overview/what-is-azure)
 - [GCP 소개](https://cloud.google.com/what-is-cloud-computing)
 
