@@ -9,13 +9,13 @@
 
 | No. | 카테고리 | 설명 |
 |-----|-----------|------|
-| [01-compute](./01-compute) | EC2, Lambda, Elastic Beanstalk 등 컴퓨팅 서비스 |
-| [02-storage](./02-storage) | S3, EBS, EFS 등 스토리지 서비스 |
-| [03-networking](./03-networking) | VPC, Route53, ELB, CloudFront 등 네트워킹 |
-| [04-security](./04-security) | IAM, KMS, WAF, GuardDuty 등 보안 관련 서비스 |
-| [05-database](./05-database) | RDS, Aurora, DynamoDB 등 데이터베이스 |
-| [06-monitoring-management](./06-monitoring-management) | CloudWatch, CloudTrail, Config, Systems Manager |
-| [07-devops-cicd](./07-devops-cicd) | CodeCommit, CodeBuild, CodeDeploy, CodePipeline 등 DevOps |
+| 01 | [01-compute](./01-compute) | EC2, Lambda, Elastic Beanstalk 등 컴퓨팅 서비스 |
+| 02 | [02-storage](./02-storage) | S3, EBS, EFS 등 스토리지 서비스 |
+| 03 | [03-networking](./03-networking) | VPC, Route53, ELB, CloudFront 등 네트워킹 |
+| 04 | [04-security](./04-security) | IAM, KMS, WAF, GuardDuty 등 보안 관련 서비스 |
+| 05 | [05-database](./05-database) | RDS, Aurora, DynamoDB 등 데이터베이스 |
+| 06 | [06-monitoring-management](./06-monitoring-management) | CloudWatch, CloudTrail, Config, Systems Manager |
+| 07 | [07-devops-cicd](./07-devops-cicd) | CodeCommit, CodeBuild, CodeDeploy, CodePipeline 등 DevOps |
 
 ---
 
