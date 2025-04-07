@@ -30,3 +30,9 @@
 - 이론 요약 + 다이어그램 + CLI 실습 병행
 - AWS 기준으로 정리 (필요시 Azure, GCP도 포함)
 - Markdown 기반 문서화로 정리
+
+## 🧑‍💻 작성자
+
+**Jongmin Oh**  
+📧 dhwhdals2637@gmail.com  
+🌐 [GitHub Profile](https://github.com/Oh-jongmin)
